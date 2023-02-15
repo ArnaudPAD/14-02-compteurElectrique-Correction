@@ -1,0 +1,4 @@
+Date: 10/02/2023 14:42:06
+Compteur: 4
+Addresse: 1, rue du test 06000 Test
+Consomation: 123.45 kwh
